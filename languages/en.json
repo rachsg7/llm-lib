@@ -1,0 +1,14 @@
+{
+    "CHAT-BOT": {
+        "settings": {
+            "api_key": {
+              "Name": "API Key",
+              "Hint": "You need to provide an API key to ChatGPT for this module to work."
+            },
+            "img_gen": {
+              "Name": "Image Generation",
+              "Hint": "Generate image along with NPC"
+            }
+          }
+    }
+  }

@@ -1,0 +1,41 @@
+{
+    "id": "llm-lib",
+    "title": "LLM Lib",
+    "description": "Large Language Model Library that takes an API key to hook into your favorite LLM",
+    "authors": [
+      {
+        "name": "Rachel Schutz"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11",
+        "maximum": "11"
+    },
+    "scripts": [
+        "scripts/llm-lib.js"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+      }
+    ],
+    "styles": [
+      "styles/llm-lib.css"
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "lib-wrapper",
+                "type": "module",
+                "compatibility": {
+                    "minimum": "1.0.0.0",
+                    "verified": "1.12.6.0"
+                }
+            }
+        ]
+    }
+  }
