@@ -5,6 +5,18 @@
               "Name": "API Key",
               "Hint": "You need to provide an API key to ChatGPT for this module to work."
             },
+            "use_api_key": {
+              "Name": "Use API Key",
+              "Hint": "Whether or not to use your own API key"
+            },
+            "secret_key": {
+              "Name": "Secret Key",
+              "Hint": "Secret key for use with external server"
+            },
+            "keys": {
+              "Name": "Keys",
+              "Hint": "Keys for use with LLM Lib"
+            },
             "img_gen": {
               "Name": "Image Generation",
               "Hint": "Generate image along with NPC"

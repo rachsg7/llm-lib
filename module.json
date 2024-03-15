@@ -1,6 +1,6 @@
 {
-    "id": "llm-lib",
-    "title": "LLM Lib",
+    "id": "llm-lib-dev",
+    "title": "LLM Lib Dev",
     "description": "Large Language Model Library that takes an API key to hook into your favorite LLM",
     "authors": [
       {
