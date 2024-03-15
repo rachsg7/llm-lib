@@ -1,6 +1,6 @@
 # LLM-Lib
 
-LLM-Lib is a Foundry VTT Module that calls ChatGPT to chat or generate NPCs for your home campaign. Use with the AI Actors Module for full functionality. 
+LLM-Lib is a Foundry VTT Module that calls ChatGPT to chat or generate NPCs for your home campaign. Use with the [AI Actors](https://github.com/rachsg7/ai-actors) Module for full functionality. 
 
 ## How to Use
 
