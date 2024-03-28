@@ -1,13 +1,13 @@
 {
-    "id": "llm-lib-dev",
-    "title": "LLM Lib Dev",
+    "id": "llm-lib",
+    "title": "LLM Lib",
     "description": "Large Language Model Library that takes an API key to hook into your favorite LLM",
     "authors": [
       {
         "name": "Rachel Schutz"
       }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "10",
         "verified": "11",
