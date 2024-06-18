@@ -10,8 +10,7 @@
     "version": "1.0.1",
     "compatibility": {
         "minimum": "10",
-        "verified": "11",
-        "maximum": "11"
+        "verified": "12"
     },
     "scripts": [
         "scripts/llm-lib.js"
