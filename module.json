@@ -7,10 +7,10 @@
         "name": "Rachel Schutz"
       }
     ],
-    "version": "",
-    "url": "",
-    "download": "",
-    "manifest": "",
+    "version": "#{VERSION}#",
+    "url": "#{URL}#",
+    "manifest": "#{MANIFEST}#",
+    "download": "#{DOWNLOAD}#",
     "compatibility": {
         "minimum": "10",
         "verified": "12"
