@@ -89,7 +89,7 @@ class llmLib {
             const url = 'https://api.openai.com/v1/chat/completions';
     
             const data = {
-                model: "gpt-4-turbo-preview",
+                model: "gpt-4-turbo",
                 response_format: { type: "json_object" },
                 messages: [{ "role": "system", "content": llmLib.helpfulAssistant },
                             {"role": "user", "content": llmQuery }]
@@ -211,7 +211,7 @@ class llmLib {
         const url = 'https://api.openai.com/v1/chat/completions';
     
         const data = {
-            model: "gpt-4-turbo-preview",
+            model: "gpt-4-turbo",
             messages: [{ "role": "system", "content": 'You are a helpful and creative DM assistant for 5th Edition Dungeons and Dragons. You help by giving story and character suggestions to the DM' },
                         ...messages]
             };
